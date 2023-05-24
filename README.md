@@ -1,4 +1,4 @@
-## Olá, Rafael Sanches aqui! 👋
+# Olá, Rafael Sanches aqui! 👋
 
 ## 🐼 Sobre:
 Sou uma pessoa que decidiu migrar da carreira jurídica para a carreira de programação💻. Sou muito feliz em ter feito isso!🙃
