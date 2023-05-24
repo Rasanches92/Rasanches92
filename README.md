@@ -1,7 +1,7 @@
 ## Olá, Rafael Sanches aqui! 👋
 
 ## 🐼 Sobre:
-Sou uma pessoa que decidiu migrar da carreira jurídica para a carreira de programação. Sou muito feliz em ter feito isso! 💻
+Sou uma pessoa que decidiu migrar da carreira jurídica para a carreira de programação💻. Sou muito feliz em ter feito isso!🙃
 
 ![Sanches GitHub stats](https://github-readme-stats.vercel.app/api?username=rasanches92&show_icons=true&theme=tokyonight)
 
