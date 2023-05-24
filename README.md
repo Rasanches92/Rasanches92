@@ -15,6 +15,8 @@ Formado em Direito pela FMU e atualmente cursando Análise e Desenvolvimento de 
 
 Além da faculdade, também faço cursos para aprimorar na linguagem de programação com foco em PHP, HTML e CSS, além de já ter feito sites para amigos que tem pequenos negócios.
 
+Estudo e sempre me mantenho atualizado em UI/UX Design. Tenho experiência na ferramenta Figma.
+
 Atualmente trabalho como Analista Programador PHP na Secretaria do Meio Ambiente em São Bernardo do Campo, atuando na construção de sistemas em PHP e banco de dados.
 
 ## Linguagens de programação:
@@ -24,6 +26,7 @@ Atualmente trabalho como Analista Programador PHP na Secretaria do Meio Ambiente
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="jscript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="figma" src="	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 ## Autores
