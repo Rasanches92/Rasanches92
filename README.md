@@ -1,7 +1,7 @@
 ### Olá, Rafael Sanches aqui! 👋
 
 ### 🐼 Sobre:
-    Sou uma pessoa que decidiu migrar da carreira jurídica para a carreira de programação.<br/> Sou muito feliz em ter feito isso! 💻
+Sou uma pessoa que decidiu migrar da carreira jurídica para a carreira de programação. Sou muito feliz em ter feito isso! 💻
 
 ### 📚 Conhecimentos e experiências:
 
