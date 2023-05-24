@@ -10,7 +10,7 @@ Sou uma pessoa que decidiu migrar da carreira jurídica para a carreira de progr
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rasanches/)
 
 ## 📚 Conhecimentos e experiências:
-Formado em Direito pela FMU e atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. 
+Formado em Direito e atualmente cursando Análise e Desenvolvimento de Sistemas. 
 
 Além da faculdade, também faço cursos para aprimorar na linguagem de programação com foco em PHP, HTML e CSS, além de já ter feito sites para amigos que tem pequenos negócios.
 
