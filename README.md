@@ -3,6 +3,8 @@
 ## 🐼 Sobre:
 Sou uma pessoa que decidiu migrar da carreira jurídica para a carreira de programação. Sou muito feliz em ter feito isso! 💻
 
+![Sanches GitHub stats](https://github-readme-stats.vercel.app/api?username=rasanches92&show_icons=true&theme=tokyonight)
+
 ## Mídias sociais: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-sanches-0b9365173/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rasanches/)
@@ -25,4 +27,4 @@ Atualmente trabalho como Analista Programador PHP na Secretaria do Meio Ambiente
 </div>
 
 
-![Sanches GitHub stats](https://github-readme-stats.vercel.app/api?username=rasanches92&show_icons=true&theme=tokyonight)
+
