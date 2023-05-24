@@ -1,5 +1,5 @@
 <p align="center">
-    <b style="font-size: 200px;">Olá, Rafael Sanches aqui! 👋</b>
+    <span style="font-size: 56px;"><b>Olá, Rafael Sanches aqui! 👋</b></span>
 </p>
 
 ## 🐼 Sobre:
