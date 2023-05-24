@@ -1,6 +1,4 @@
-<p align="center">
-    <span style="font-size: 500px;"><b>Olá, Rafael Sanches aqui! 👋</b></span>
-</p>
+# Olá, Rafael Sanches aqui! 👋
 
 ## 🐼 Sobre:
 Sou uma pessoa que decidiu migrar da carreira jurídica para a carreira de programação💻. Sou muito feliz em ter feito isso!🙃
