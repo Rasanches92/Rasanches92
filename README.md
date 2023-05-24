@@ -5,12 +5,9 @@ Sou uma pessoa que decidiu migrar da carreira jurídica para a carreira de progr
 
 ![Sanches GitHub stats](https://github-readme-stats.vercel.app/api?username=rasanches92&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasanches92)](https://www.github.com/rasanches92/github-readme-stats)
-
 ## Mídias sociais: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-sanches-0b9365173/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rasanches/)
-
 
 ## 📚 Conhecimentos e experiências:
 Formado em Direito pela FMU e atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. 
@@ -30,6 +27,8 @@ Atualmente trabalho como Analista Programador PHP na Secretaria do Meio Ambiente
     <img align="center" alt="jscript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasanches92)](https://www.github.com/rasanches92/github-readme-stats)
 
 ## Autor
 
