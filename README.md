@@ -9,7 +9,7 @@ Sou uma pessoa que decidiu migrar da carreira jurídica para a carreira de progr
 
 
 ### 📚 Conhecimentos e experiências:
-#Formado em Direito pela FMU e atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. 
+##Formado em Direito pela FMU e atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. 
 Além da faculdade, também faço cursos para aprimorar na linguagem de programação com foco em PHP, HTML e CSS, além de já ter feito sites para amigos que tem pequenos negócios.
 Atualmente trabalho como Analista Programador PHP na Secretaria do Meio Ambiente em São Bernardo do Campo, atuando na construção de sistemas em PHP e banco de dados.
 
