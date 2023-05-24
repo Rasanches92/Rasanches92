@@ -31,7 +31,7 @@ Atualmente trabalho como Analista Programador PHP na Secretaria do Meio Ambiente
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-## Autores
+## Autor
 
 - [@rasanches92](https://www.github.com/rasanches92)
 
