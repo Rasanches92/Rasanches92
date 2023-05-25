@@ -37,6 +37,14 @@ Atualmente trabalho como Analista Programador PHP na Secretaria do Meio Ambiente
 ## UI/UX Design 
 <div style="display: inline_block">
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+
+# ⚒️ Ferramentas
+<div style="display: inline_block">
+    <img width="50px" style="margin-right: 200px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="50px" style="margin-right: 200px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+    <img width="50px" style="margin-right: 200px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
+    <img width="50px" style="margin-right: 200px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/800px-DBeaver_logo.svg.png" />
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasanches92)](https://www.github.com/rasanches92/github-readme-stats)
