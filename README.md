@@ -49,12 +49,15 @@ Atualmente trabalho como Analista Programador PHP na Secretaria do Meio Ambiente
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasanches92)](https://www.github.com/rasanches92/github-readme-stats)
 
+
+![portalorangeparrot](https://github.com/Rasanches92/Rasanches92/assets/96503508/f69cea2f-e890-4cc0-9527-997c2d3d71ee)
+
 ## Autor
 
 - [@rasanches92](https://www.github.com/rasanches92)
 
-![portalblueparrot](https://github.com/Rasanches92/Rasanches92/assets/96503508/d11f58d8-cb81-4011-b275-e5723eee9fa3)
 
+![portalblueparrot](https://github.com/Rasanches92/Rasanches92/assets/96503508/bdbebafe-35a6-40dc-889e-eab52f6eaed4)
 
 
 
