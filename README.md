@@ -24,6 +24,7 @@ Atualmente trabalho como Analista Programador PHP na Secretaria do Meio Ambiente
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="jscript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="icon" src="https://icons8.com/icon/zfHRZ6i1Wg0U/figma">
 </div>
 
 ## Back-End 
