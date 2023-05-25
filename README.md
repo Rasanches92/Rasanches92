@@ -1,6 +1,3 @@
-![portalorangeparrot](https://github.com/Rasanches92/Rasanches92/assets/96503508/0d2f80e2-b61c-44e7-9367-380060537205)
-
-
 # Olá, Rafael Sanches aqui! 👋
 
 # 🐼 Sobre:
