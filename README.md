@@ -54,7 +54,8 @@ Atualmente trabalho como Analista Programador PHP na Secretaria do Meio Ambiente
 
 - [@rasanches92](https://www.github.com/rasanches92)
 
-![spyparrot](https://github.com/Rasanches92/Rasanches92/assets/96503508/9a875f98-6074-486f-9739-d131abcc49fd)
+![ceilingparrot](https://github.com/Rasanches92/Rasanches92/assets/96503508/61bbc9d3-5050-4481-91a6-ac6763900244)
+
 
 
 
