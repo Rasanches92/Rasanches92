@@ -1,3 +1,6 @@
+![portalorangeparrot](https://github.com/Rasanches92/Rasanches92/assets/96503508/0d2f80e2-b61c-44e7-9367-380060537205)
+
+
 # Olá, Rafael Sanches aqui! 👋
 
 # 🐼 Sobre:
@@ -52,6 +55,9 @@ Atualmente trabalho como Analista Programador PHP na Secretaria do Meio Ambiente
 ## Autor
 
 - [@rasanches92](https://www.github.com/rasanches92)
+
+![portalblueparrot](https://github.com/Rasanches92/Rasanches92/assets/96503508/d11f58d8-cb81-4011-b275-e5723eee9fa3)
+
 
 
 
