@@ -46,8 +46,6 @@ Atualmente trabalho como Analista Programador PHP na Secretaria do Meio Ambiente
     <img width="50px" style="margin-right: 200px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasanches92)](https://www.github.com/rasanches92/github-readme-stats)
-
 
 ## Autor
 
